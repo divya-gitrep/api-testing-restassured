@@ -1,0 +1,4 @@
+tests/CreateUserTest.class
+tests/GetUserTest.class
+payloads/UserPayload.class
+utils/BaseTest.class
